@@ -1,4 +1,4 @@
-# crivo_de_erastostenes
+# crivo_de_eratostenes
 ![Crivo de Erastóstenes](https://upload.wikimedia.org/wikipedia/commons/8/8c/New_Animation_Sieve_of_Eratosthenes.gif)
 ## Trabalho de Programação Concorrente (2023-1)
 
