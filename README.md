@@ -12,3 +12,10 @@ Ibanez Fernandes da Silva Junior | 2033500 | ibanezjunior@alunos.utfpr.edu.br
 
 # Linguagem: Elixir
 ![Elixir](https://www.each.usp.br/petsi/jornal/wp-content/uploads/2018/09/elixir.png)
+
+# Link's importantes
+* Para aprender a linguagem: https://elixirschool.com/en
+* sobre o tema, leiam: [http://www.inf.puc-rio.br/~noemi/pcp-13/primos.pdf]
+* Wikipedia: [https://pt.wikipedia.org/wiki/Crivo_de_Erat%C3%B3stenes]
+* Vídeo: {https://pt.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4]
+* fundamentação teórica: [https://noic.com.br/materiais-informatica/curso/math-03/]
