@@ -11,4 +11,4 @@ Valdenir Ziger (Deno) | 2095637 | [valdenir@alunos.utfpr.edu.br]
 Ibanez Fernandes da Silva Junior | 2033500 | [ibanezjunior@alunos.utfpr.edu.br]
 
 # Linguagem: Elixir
-!(https://www.each.usp.br/petsi/jornal/wp-content/uploads/2018/09/elixir.png)
+![Elixir](https://www.each.usp.br/petsi/jornal/wp-content/uploads/2018/09/elixir.png)
