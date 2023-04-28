@@ -5,7 +5,7 @@
 # Equipe:
 Nome | RA | Email
 -----|----|-------
-Pedro Cardoso Barzan| | 
+Pedro Cardoso Barzan | 2203618 | pcardosow.nnf@gmail.com
 Marciano Fernando Monteiro | 2273900 | fmmonteiro98@gmail.com
 Valdenir Ziger (Deno) | 2095637 | valdenir@alunos.utfpr.edu.br
 Ibanez Fernandes da Silva Junior | 2033500 | ibanezjunior@alunos.utfpr.edu.br
