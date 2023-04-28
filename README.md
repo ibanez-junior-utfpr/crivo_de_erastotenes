@@ -19,3 +19,8 @@ Ibanez Fernandes da Silva Junior | 2033500 | ibanezjunior@alunos.utfpr.edu.br
 * Wikipedia: [https://pt.wikipedia.org/wiki/Crivo_de_Erat%C3%B3stenes]
 * Vídeo: {https://pt.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4]
 * fundamentação teórica: [https://noic.com.br/materiais-informatica/curso/math-03/]
+* mais aprendizado: [https://itforum.com.br/noticias/2-cursos-line-gratuitos-para-aprender-programar-em-elixir/]
+* [https://www.lambda3.com.br/2016/06/elixir-aprendendo-uma-linguagem-funcional/]
+* [https://lucassimon.com.br/2018/06/um-caminho-para-aprender-elixir/]
+* [https://www.hostgator.com.br/blog/elixir-linguagem-programacao-brasileira/]
+
